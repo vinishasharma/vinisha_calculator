@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0mRunning checkstyle: src/main/java[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing checkstyle configuration: google[0m
+[0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/com/calc/Calculator.java[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/com/calc/Calculator.java:23: Missing a Javadoc comment.[0m
+[0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/com/calc/Operations.java[0m
+[0m[[0m[0minfo[0m] [0m[0mcheckstyle has succeeded[0m
